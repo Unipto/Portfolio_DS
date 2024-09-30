@@ -1,2 +1,5 @@
 # Portfolio_DS
-Portfolio de mes projets data
+
+Description : Portfolio de mes projets data
+
+Contient des submodules vers chaque projet data.
